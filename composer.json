@@ -1,0 +1,12 @@
+{
+    "name": "svetlana/gudkova",
+    "description": "Задание 3. Установка Laravel",
+    "authors": [
+        {
+            "name": "svetlana gudkova"
+        }
+    ],
+    "require-dev": {
+        "psr/log": "^3.0"
+    }
+}
